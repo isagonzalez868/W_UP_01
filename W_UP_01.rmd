@@ -2,7 +2,7 @@
 title: "W_UP_01"
 author: "Isabella Gonzalez"
 date: "Spring 2021"
-output: 
+output: html_document
 ---
 
 
